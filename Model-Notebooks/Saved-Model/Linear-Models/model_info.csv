@@ -1,0 +1,5 @@
+ModelName,Threshold
+./Saved-Model/Linear-Models/linear_regression_model_NF.joblib,0.21573958878205707
+./Saved-Model/Linear-Models/linear_regression_model_F.joblib,0.5139108380390098
+./Saved-Model/Linear-Models/gradient_regression_model_NF.joblib,0.21731495804460316
+./Saved-Model/Linear-Models/gradient_regression_model_F.joblib,0.46805035255531224

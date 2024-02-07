@@ -1,0 +1,5 @@
+ModelName,Threshold
+./Saved-Model/Logistic-Models/logistic_regression_model_NF.joblib,0.514583133103517
+./Saved-Model/Logistic-Models/logistic_regression_model_F.joblib,0.47427838974003134
+./Saved-Model/Logistic-Models/SGD_regression_model_NF.joblib,1.287358250638933
+./Saved-Model/Logistic-Models/SGD_regression_model_F.joblib,-0.01570693993366845
